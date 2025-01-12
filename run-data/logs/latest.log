@@ -1,0 +1,27 @@
+[12Oca2025 01:36:33.878] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_userdev_data, --assetIndex, 16, --assetsDir, C:\Users\Furkan Kırat\.gradle\caches\forge_gradle\assets, --gameDir, ., --mod, bosschronicles, --all, --output, C:\Users\Furkan Kırat\Desktop\BossChronicles\src\generated\resources, --existing, C:\Users\Furkan Kırat\Desktop\BossChronicles\src\main\resources]
+[12Oca2025 01:36:33.881] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.5+11-LTS
+[12Oca2025 01:36:33.882] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.5 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[12Oca2025 01:36:33.959] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_userdev_data
+[12Oca2025 01:36:34.044] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=jar:file:///C:/Users/Furkan%20Kırat/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar!/ Service=ModLauncher Env=UNKNOWN
+[12Oca2025 01:36:34.772] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[12Oca2025 01:36:35.377] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_userdev_data' with arguments [--gameDir, ., --assetsDir, C:\Users\Furkan Kırat\.gradle\caches\forge_gradle\assets, --assetIndex, 16, --mod, bosschronicles, --all, --output, C:\Users\Furkan Kırat\Desktop\BossChronicles\src\generated\resources, --existing, C:\Users\Furkan Kırat\Desktop\BossChronicles\src\main\resources]
+[12Oca2025 01:36:39.431] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 50.1.31, for MC 1.20.6 with MCP 20240429.135109
+[12Oca2025 01:36:39.433] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v50.1.31 Initialized
+[12Oca2025 01:36:39.458] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[12Oca2025 01:36:39.717] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [bosschronicles]
+[12Oca2025 01:36:39.776] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Furkan%20Kırat/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.6-50.1.31_mapped_parchment_2024.06.16-1.20.6/forge-1.20.6-50.1.31_mapped_parchment_2024.06.16-1.20.6-recomp.jar%230!/assets/.mcassetsroot' uses unexpected schema
+[12Oca2025 01:36:39.776] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Furkan%20Kırat/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.6-50.1.31_mapped_parchment_2024.06.16-1.20.6/forge-1.20.6-50.1.31_mapped_parchment_2024.06.16-1.20.6-recomp.jar%230!/data/.mcassetsroot' uses unexpected schema
+[12Oca2025 01:36:39.887] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[12Oca2025 01:36:40.049] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 161 ms
+[12Oca2025 01:36:40.049] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[12Oca2025 01:36:40.062] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 12 ms
+[12Oca2025 01:36:40.062] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block Tags
+[12Oca2025 01:36:40.063] [main/INFO] [net.minecraft.data.DataGenerator/]: Block Tags finished after 1 ms
+[12Oca2025 01:36:40.063] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Tags
+[12Oca2025 01:36:40.065] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Tags finished after 0 ms
+[12Oca2025 01:36:40.065] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: bosschronicles
+[12Oca2025 01:36:40.069] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: bosschronicles finished after 3 ms
+[12Oca2025 01:36:40.069] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: bosschronicles
+[12Oca2025 01:36:40.158] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: bosschronicles finished after 88 ms
+[12Oca2025 01:36:40.158] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 270 ms
+[12Oca2025 01:36:40.162] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 9, old count: 5, new count: 10, removed stale: 0, written: 5
