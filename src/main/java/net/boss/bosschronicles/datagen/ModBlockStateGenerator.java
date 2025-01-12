@@ -14,5 +14,6 @@ public class ModBlockStateGenerator extends BlockStateProvider {
     @Override
     protected void registerStatesAndModels() {
         simpleBlockWithItem(ModBlocks.RUBY_BLOCK.get(), cubeAll(ModBlocks.RUBY_BLOCK.get()));
+        simpleBlockWithItem(ModBlocks.RUBY_ORE.get(), cubeAll(ModBlocks.RUBY_ORE.get()));
     }
 }

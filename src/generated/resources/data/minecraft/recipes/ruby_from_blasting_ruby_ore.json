@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.1,
+  "group": "ruby",
+  "ingredient": {
+    "item": "bosschronicles:ruby_ore"
+  },
+  "result": {
+    "id": "bosschronicles:ruby"
+  }
+}

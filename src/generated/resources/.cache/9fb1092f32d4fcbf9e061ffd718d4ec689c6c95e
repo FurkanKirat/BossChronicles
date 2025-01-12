@@ -1,5 +1,9 @@
-// 1.20.6	2025-01-12T01:36:40.1603003	Recipes
+// 1.20.6	2025-01-12T14:18:01.592019	Recipes
 b4b95e867029ed1e681fb6bab115cb775d23b4fc data/minecraft/advancements/recipes/misc/ruby.json
 96ef2b408c872e95266a39fffbec6d72a0fa7705 data/minecraft/advancements/recipes/misc/ruby_block.json
+13b787852706745cd8cb73b84a33811364fa5965 data/minecraft/advancements/recipes/misc/ruby_from_blasting_ruby_ore.json
+17ecc9e834fc7cbba8d1c564f45f269f9d4f47bb data/minecraft/advancements/recipes/misc/ruby_from_smelting_ruby_ore.json
 fb455d2ce5cf054221bf5846d11c590ab77dd82e data/minecraft/recipes/ruby.json
 cd43725a73b91e98b6b4d653d3b083745fb2cc08 data/minecraft/recipes/ruby_block.json
+1737e22338a3d4979e613d9e51600ba05b50680a data/minecraft/recipes/ruby_from_blasting_ruby_ore.json
+dadc5bb7c998c902c92b0ac4de5d636106089205 data/minecraft/recipes/ruby_from_smelting_ruby_ore.json

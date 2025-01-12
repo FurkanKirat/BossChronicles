@@ -1,10 +1,9 @@
 package net.boss.bosschronicles.datagen.loot;
 
 import net.boss.bosschronicles.block.ModBlocks;
+import net.boss.bosschronicles.item.ModItems;
 import net.minecraft.data.loot.BlockLootSubProvider;
-import net.minecraft.world.flag.FeatureFlagSet;
 import net.minecraft.world.flag.FeatureFlags;
-import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
 import net.minecraftforge.registries.RegistryObject;
 
@@ -18,6 +17,7 @@ public class ModBlockLootTables extends BlockLootSubProvider {
     @Override
     protected void generate() {
         this.dropSelf(ModBlocks.RUBY_BLOCK.get());
+        this.add(ModBlocks.RUBY_ORE.get(), block -> createOreDrop(ModBlocks.RUBY_ORE.get(), ModItems.RUBY.get()));
     }
 
     @Override

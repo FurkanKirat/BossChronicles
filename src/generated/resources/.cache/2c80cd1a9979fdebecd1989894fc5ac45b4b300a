@@ -1,4 +1,7 @@
-// 1.20.6	2025-01-12T01:22:02.1223181	Block States: bosschronicles
+// 1.20.6	2025-01-12T14:18:01.5910196	Block States: bosschronicles
 a303d5dc8bd58de3ecee26cd44212a859d06b4c1 assets/bosschronicles/blockstates/ruby_block.json
+bd29f7137db6291a09b5c001844d7e71c6c16681 assets/bosschronicles/blockstates/ruby_ore.json
 6b71d635869612067ddf03cab0e07cf9c1212c97 assets/bosschronicles/models/block/ruby_block.json
+f536ded32cfd5abe7a96156131c216e828f6eece assets/bosschronicles/models/block/ruby_ore.json
 05578b6f1f39a783ea4c54eb64de5a050f3eb0f8 assets/bosschronicles/models/item/ruby_block.json
+2c7e2d98eb2e10dc928536620515cacda38f5703 assets/bosschronicles/models/item/ruby_ore.json

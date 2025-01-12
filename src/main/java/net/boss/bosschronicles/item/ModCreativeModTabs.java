@@ -22,6 +22,7 @@ public class ModCreativeModTabs {
                     {
                         output.accept(ModItems.RUBY.get());
                         output.accept(ModBlocks.RUBY_BLOCK.get());
+                        output.accept(ModBlocks.RUBY_ORE.get());
                     })
                     .build());
 
